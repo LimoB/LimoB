@@ -2,10 +2,14 @@
 
 🚀 Passionate about building modern, scalable web applications with clean architecture and powerful tooling.
 
+---
+
 <!-- GitHub Stats & Streak -->
-![GitHub Streak](https://streak-stats.demolab.com?user=LimoB&theme=dark)
-![Boaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LimoB&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LimoB&layout=compact&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=LimoB&theme=dark&hide_border=true)
+![Boaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LimoB&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LimoB&layout=compact&theme=dark&hide_border=true)
+
+---
 
 ## 🧰 Languages & Tools
 
@@ -27,10 +31,14 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+---
+
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boaz-limo-30752b310/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LimoB)
+
+---
 
 ## 📫 Contact Me
 
