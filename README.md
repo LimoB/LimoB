@@ -11,6 +11,12 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=LimoB&theme=darkhub&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ## 🧰 Languages & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -33,6 +39,42 @@
 
 ---
 
+## 📰 Latest Blog Posts
+
+<!-- Replace this section with actual blog integration via GitHub Actions or RSS -->
+- 📝 [How I Built a Scalable Bug Tracker with Node.js and Drizzle ORM](https://your-blog.com/scalable-bug-tracker)
+- 🔐 [JWT Authentication with Express, TypeScript & PostgreSQL](https://your-blog.com/jwt-auth-typescript)
+- 🚀 [Deploying PostgreSQL Apps with Neon, Vercel & Netlify](https://your-blog.com/neon-vercel-deployment)
+
+➡️ *More coming soon at [your-blog.com](https://your-blog.com)*
+
+---
+
+## 🚀 Recent Projects
+
+Here are a few of my recent works:
+
+### 🔧 Zappr - Bug Tracking System
+> Bug reporting and progress tracking with roles, tickets, comments, and light/dark mode.
+
+[![Zappr Screenshot](https://your-deployment-url.com/zappr-screenshot.png)](https://github.com/LimoB/zappr)
+
+---
+
+### 📚 Book Repository API
+> A modular API built with Express, Drizzle ORM, and PostgreSQL. Supports full CRUD and user auth.
+
+[Repo](https://github.com/LimoB/book-repo-api)
+
+---
+
+### 🍽️ Restaurant Platform
+> Full-stack food delivery platform with restaurant owners, orders, comments, and admin dashboard.
+
+[Repo](https://github.com/LimoB/restaurant-platform)
+
+---
+
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boaz-limo-30752b310/)
@@ -42,5 +84,5 @@
 
 ## 📫 Contact Me
 
-📍 Location: Kenya  
+📍 Location: Nairobi, Kenya  
 📧 Email: boazlimo07@gmail.com
