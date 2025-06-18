@@ -10,13 +10,7 @@
 ![Boaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LimoB&show_icons=true&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LimoB&layout=compact&theme=dark&hide_border=true)
 
----
 
-## 🏆 GitHub Trophies
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=LimoB&theme=onedark&no-bg=true&no-frame=true&column=4&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 
 ## 🧰 Languages & Tools
 
