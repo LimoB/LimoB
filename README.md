@@ -49,31 +49,21 @@
 ➡️ *More coming soon at [your-blog.com](https://your-blog.com)*
 
 ---
-
 ## 🚀 Recent Projects
 
 Here are a few of my recent works:
 
-### 🔧 Zappr - Bug Tracking System
-> Bug reporting and progress tracking with roles, tickets, comments, and light/dark mode.
+### 📚 Bookstore UI
+> A clean and modern frontend built with React and TypeScript, connected to a modular Book Repository API. Features include user auth, book listings, and dynamic forms.
 
-[![Zappr Screenshot](https://your-deployment-url.com/zappr-screenshot.png)](https://github.com/LimoB/zappr)
-
----
-
-### 📚 Book Repository API
-> A modular API built with Express, Drizzle ORM, and PostgreSQL. Supports full CRUD and user auth.
-
-[Repo](https://github.com/LimoB/book-repo-api)
+🔗 [GitHub Repo](https://github.com/LimoB/bookstore-ui)
 
 ---
 
-### 🍽️ Restaurant Platform
-> Full-stack food delivery platform with restaurant owners, orders, comments, and admin dashboard.
+### 🍽️ Restaurant Frontend
+> A full-featured food ordering interface using React and Tailwind CSS. Supports login, registration, menu browsing, and admin dashboard integration with charts and stats.
 
-[Repo](https://github.com/LimoB/restaurant-platform)
-
----
+🔗 [GitHub Repo](https://github.com/LimoB/restaurant-frontend)
 
 ## 🌐 Connect with Me
 
