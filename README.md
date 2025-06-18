@@ -4,7 +4,8 @@
 
 ---
 
-<!-- GitHub Stats & Streak -->
+## 📊 GitHub Stats
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=LimoB&theme=dark&hide_border=true)
 ![Boaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LimoB&show_icons=true&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LimoB&layout=compact&theme=dark&hide_border=true)
@@ -13,7 +14,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=LimoB&theme=darkhub&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=LimoB&theme=onedark&no-bg=true&no-frame=true&column=4&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -39,16 +40,6 @@
 
 ---
 
-## 📰 Latest Blog Posts
-
-<!-- Replace this section with actual blog integration via GitHub Actions or RSS -->
-- 📝 [How I Built a Scalable Bug Tracker with Node.js and Drizzle ORM](https://your-blog.com/scalable-bug-tracker)
-- 🔐 [JWT Authentication with Express, TypeScript & PostgreSQL](https://your-blog.com/jwt-auth-typescript)
-- 🚀 [Deploying PostgreSQL Apps with Neon, Vercel & Netlify](https://your-blog.com/neon-vercel-deployment)
-
-➡️ *More coming soon at [your-blog.com](https://your-blog.com)*
-
----
 ## 🚀 Recent Projects
 
 Here are a few of my recent works:
@@ -64,6 +55,15 @@ Here are a few of my recent works:
 > A full-featured food ordering interface using React and Tailwind CSS. Supports login, registration, menu browsing, and admin dashboard integration with charts and stats.
 
 🔗 [GitHub Repo](https://github.com/LimoB/restaurant-frontend)
+
+---
+
+## 📰 Blog Posts
+
+<!-- Replace this with actual blog feed integration if you have a blog -->
+*Coming soon: Technical write-ups, project breakdowns, and tutorials!*
+
+---
 
 ## 🌐 Connect with Me
 
