@@ -6,13 +6,16 @@
 
 ## 📊 GitHub Stats
 
-<!-- GitHub Streak Stats -->
+<!-- GitHub Contribution Streak -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LimoB&theme=dark&hide_border=true)
 
+<!-- GitHub Summary Stats -->
 ![Boaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LimoB&show_icons=true&theme=dark&hide_border=true)
+
+<!-- Most Used Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LimoB&layout=compact&theme=dark&hide_border=true)
 
-
+---
 
 ## 🧰 Languages & Tools
 
@@ -28,7 +31,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Neon](https://img.shields.io/badge/-Neon-000000?style=for-the-badge&logo=neon&logoColor=white)
-![Drizzle ORM](https://img.shields.io/badge/-Drizzle%20ORM-000?style=for-the-badge&logo=drizzle&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/-Drizzle%20ORM-000?style=for-the-badge&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -38,25 +41,24 @@
 
 ## 🚀 Recent Projects
 
-Here are a few of my recent works:
-
 ### 📚 Bookstore UI
-> A clean and modern frontend built with React and TypeScript, connected to a modular Book Repository API. Features include user auth, book listings, and dynamic forms.
+> A clean and modern frontend built with React and TypeScript, connected to a modular Book Repository API.  
+> Features include user authentication, dynamic book listings, and form-driven interfaces.
 
-🔗 [GitHub Repo](https://github.com/LimoB/bookstore-ui)
+🔗 [View on GitHub](https://github.com/LimoB/bookstore-ui)
 
 ---
 
 ### 🍽️ Restaurant Frontend
-> A full-featured food ordering interface using React and Tailwind CSS. Supports login, registration, menu browsing, and admin dashboard integration with charts and stats.
+> A full-featured food ordering interface using React and Tailwind CSS.  
+> Supports authentication, dynamic menu browsing, and admin dashboard with charts.
 
-🔗 [GitHub Repo](https://github.com/LimoB/restaurant-frontend)
+🔗 [View on GitHub](https://github.com/LimoB/restaurant-frontend)
 
 ---
 
 ## 📰 Blog Posts
 
-<!-- Replace this with actual blog feed integration if you have a blog -->
 *Coming soon: Technical write-ups, project breakdowns, and tutorials!*
 
 ---
@@ -70,5 +72,5 @@ Here are a few of my recent works:
 
 ## 📫 Contact Me
 
-📍 Location: Nairobi, Kenya  
-📧 Email: boazlimo07@gmail.com
+📍 **Location:** Nairobi, Kenya  
+📧 **Email:** boazlimo07@gmail.com
