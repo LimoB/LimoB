@@ -7,7 +7,7 @@
 ## 📊 GitHub Stats
 
 <!-- GitHub Streak Stats -->
-![GitHub Streak](https://streak-stats.demolab.com?user=LimoB&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LimoB&theme=dark&hide_border=true)
 ![Boaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LimoB&show_icons=true&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LimoB&layout=compact&theme=dark&hide_border=true)
 
