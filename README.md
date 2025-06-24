@@ -6,7 +6,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LimoB&theme=transparent&hide_border=true&include_all_commits=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LimoB&theme=github-dark&hide_border=true)
 
 ![Boaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LimoB&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
 
