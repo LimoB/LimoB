@@ -1,9 +1,9 @@
-<!-- Dark Banner -->
+<!-- Banner with adjusted height -->
 <p align="center">
-  <img src="./banner.png" alt="Boaz Limo Banner" style="border-radius: 10px;" />
+  <img src="./banner.png" alt="Boaz Limo Banner" style="border-radius: 10px; width: 100%; height: 180px; object-fit: cover;" />
 </p>
 
-# 👋 Hi There, I'm Boaz Limo
+# 👋 Hi, I’m Limo
 
 💡 I'm a passionate **Software Engineer** focused on building modern, scalable, and reliable systems using clean architecture, test-driven development, and powerful tooling.
 
@@ -28,7 +28,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=limob&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=LimoB&theme=tokyonight&hide_border=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LimoB&show_icons=true&theme=tokyonight&hide_border=true)
 
