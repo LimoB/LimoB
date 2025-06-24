@@ -10,6 +10,16 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=LimoB&theme=tokyonight&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LimoB&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LimoB&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
 ## 🔍 Currently Exploring
 
 - 🧠 Improving TypeScript architecture and DDD practices
@@ -27,19 +37,9 @@
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📈 Contribution Activity -->
 
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=LimoB&theme=tokyonight&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LimoB&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LimoB&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 📈 Contribution Activity
-
-![Boaz Limo's GitHub Activity Graph](https://github-activity-graph.vercel.app/graph?username=LimoB&theme=tokyonight&hide_border=true)
+<!-- ![Boaz Limo's GitHub Activity Graph](https://github-activity-graph.vercel.app/graph?username=LimoB&theme=tokyonight&hide_border=true) -->
 
 ---
 
