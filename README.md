@@ -7,13 +7,13 @@
 ## 📊 GitHub Stats
 
 <!-- GitHub Contribution Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LimoB&theme=dark&hide_border=true&include_all_commits=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LimoB&theme=transparent&hide_border=true&include_all_commits=true)
 
 <!-- GitHub Summary Stats -->
-![Boaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LimoB&show_icons=true&theme=dark&hide_border=true)
+![Boaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LimoB&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
 
 <!-- Most Used Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LimoB&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LimoB&layout=compact&theme=transparent&hide_border=true)
 
 ---
 
