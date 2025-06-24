@@ -1,30 +1,25 @@
 <!-- Banner with adjusted height -->
+
+# 👋 Hi, I’m Limo
+
 <p align="center">
   <img src="./banner.png" alt="Boaz Limo Banner" style="border-radius: 10px; width: 100%; height: 320px; object-fit: cover;" />
 </p>
 
-# 👋 Hi, I’m Limo
-
 💡 I'm a passionate **Software Engineer** focused on building modern, scalable, and reliable systems using clean architecture, test-driven development, and powerful tooling.
-
----
 
 ## 🔍 Currently Exploring
 
 - 🧠 Improving TypeScript architecture and DDD practices
-- 🚀 Rust and systems-level development
+- 🚀 Java and systems-level development
 - ☁️ Azure Functions & serverless event-driven architecture
-- ⚡ Full-stack productivity with tRPC + Next.js + Drizzle ORM
-
----
+- ⚡ Full-stack productivity + Express.js + Drizzle ORM
 
 ## 📌 Tech Stack Overview
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,java,tailwind,postgres,mysql,azure,vercel,netlify,git,github" />
 </p>
-
----
 
 ## 📊 GitHub Stats
 
