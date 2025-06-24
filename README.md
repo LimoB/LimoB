@@ -1,6 +1,6 @@
-# Hi There, 👋 I'm Boaz Limo
+# 👋 Hi There, I'm Boaz Limo
 
-🚀 Passionate about building modern, scalable web applications with clean architecture and powerful tooling.
+💡 I'm a passionate **Software Engineer** focused on building modern, scalable, and reliable systems using clean architecture, test-driven development, and powerful tooling.
 
 ---
 
@@ -18,10 +18,9 @@
 
 ![Boaz Limo's GitHub Activity Graph](https://github-activity-graph.vercel.app/graph?username=LimoB&theme=tokyonight&hide_border=true)
 
-
 ---
 
-## 🧰 Languages & Tools
+## 🛠️ Languages & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -43,19 +42,19 @@
 
 ---
 
-## 🚀 Recent Projects
+## 🚀 Featured Projects
 
 ### 📚 Bookstore UI
-> A clean and modern frontend built with React and TypeScript, connected to a modular Book Repository API.  
-> Features include user authentication, dynamic book listings, and form-driven interfaces.
+> A modular and scalable frontend built with **React + TypeScript**.  
+> Features include: user auth, dynamic listings, and form-driven UX.
 
 🔗 [View on GitHub](https://github.com/LimoB/bookstore-ui)
 
 ---
 
 ### 🍽️ Restaurant Frontend
-> A full-featured food ordering interface using React and Tailwind CSS.  
-> Supports authentication, dynamic menu browsing, and admin dashboard with charts.
+> A dynamic food ordering platform using **React + Tailwind CSS**.  
+> Admin dashboard, charts, menu filtering, and user authentication included.
 
 🔗 [View on GitHub](https://github.com/LimoB/restaurant-frontend)
 
@@ -63,7 +62,7 @@
 
 ## 📰 Blog Posts
 
-*Coming soon: Technical write-ups, project breakdowns, and tutorials!*
+🛠️ *Coming soon: deep dives into design patterns, deployment, and real-world debugging tips!*
 
 ---
 
