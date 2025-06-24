@@ -8,6 +8,8 @@
 
 💡 I'm a passionate **Software Engineer** focused on building modern, scalable, and reliable systems using clean architecture, test-driven development, and powerful tooling.
 
+---
+
 ## 🔍 Currently Exploring
 
 - 🧠 Improving TypeScript architecture and DDD practices
@@ -15,25 +17,31 @@
 - ☁️ Azure Functions & serverless event-driven architecture
 - ⚡ Full-stack productivity + Express.js + Drizzle ORM
 
+---
+
 ## 📌 Tech Stack Overview
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,java,tailwind,postgres,mysql,azure,vercel,netlify,git,github" />
 </p>
 
+---
+
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=LimoB&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=LimoB&theme=tokyonight&hide_border=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LimoB&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LimoB&layout=compact&theme=tokyonight&hide_border=true)
 
+---
 
 ## 📈 Contribution Activity
 
 ![Boaz Limo's GitHub Activity Graph](https://github-activity-graph.vercel.app/graph?username=LimoB&theme=tokyonight&hide_border=true)
 
+---
 
 ## 🛠️ Languages & Tools
 
@@ -55,7 +63,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-
+---
 
 ## 🚀 Featured Projects
 
@@ -66,7 +74,7 @@
 
 🔗 [View on GitHub](https://github.com/LimoB/bookstore-ui)
 
-
+---
 
 ### 🍽️ Restaurant Frontend
 
@@ -75,17 +83,20 @@
 
 🔗 [View on GitHub](https://github.com/LimoB/restaurant-frontend)
 
-
+---
 
 ## 📰 Blog Posts
 
 🛠️ _Coming soon: deep dives into design patterns, deployment, and real-world debugging tips!_
 
+---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boaz-limo-30752b310/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boaz-limo-30752b310/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LimoB)
+
+---
 
 ## 📫 Contact Me
 
