@@ -6,7 +6,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=LimoB&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=limob&theme=tokyonight&hide_border=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LimoB&show_icons=true&theme=tokyonight&hide_border=true)
 
