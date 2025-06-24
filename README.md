@@ -1,6 +1,6 @@
 <!-- Banner with adjusted height -->
 <p align="center">
-  <img src="./banner.png" alt="Boaz Limo Banner" style="border-radius: 10px; width: 100%; height: 180px; object-fit: cover;" />
+  <img src="./banner.png" alt="Boaz Limo Banner" style="border-radius: 10px; width: 100%; height: 280px; object-fit: cover;" />
 </p>
 
 # 👋 Hi, I’m Limo
