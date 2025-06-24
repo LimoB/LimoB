@@ -16,7 +16,7 @@
 
 ## 📈 Contribution Activity
 
-![Boaz Limo's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=LimoB&theme=tokyonight&hide_border=true)
+![Boaz Limo's GitHub Activity Graph](https://github-activity-graph.vercel.app/graph?username=LimoB&theme=tokyonight&hide_border=true)
 
 
 ---
