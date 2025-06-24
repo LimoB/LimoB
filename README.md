@@ -6,13 +6,12 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LimoB&theme=github-dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LimoB&theme=tokyonight&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LimoB&show_icons=true&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LimoB&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LimoB&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LimoB&layout=compact&theme=tokyonight&hide_border=true)
 
----
 
 ## 🧰 Languages & Tools
 
