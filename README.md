@@ -1,6 +1,6 @@
 <!-- Banner with adjusted height -->
 
-# 👋 Hi, I’m Limo
+# 👋 Hi, I’m Boaz Limo
 
 <p align="center">
   <img src="./banner.png" alt="Boaz Limo Banner" style="border-radius: 10px; width: 100%; height: 320px; object-fit: cover;" />
@@ -29,13 +29,11 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LimoB&layout=compact&theme=tokyonight&hide_border=true)
 
----
 
 ## 📈 Contribution Activity
 
 ![Boaz Limo's GitHub Activity Graph](https://github-activity-graph.vercel.app/graph?username=LimoB&theme=tokyonight&hide_border=true)
 
----
 
 ## 🛠️ Languages & Tools
 
@@ -57,7 +55,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
+
 
 ## 🚀 Featured Projects
 
@@ -68,7 +66,7 @@
 
 🔗 [View on GitHub](https://github.com/LimoB/bookstore-ui)
 
----
+
 
 ### 🍽️ Restaurant Frontend
 
@@ -77,20 +75,17 @@
 
 🔗 [View on GitHub](https://github.com/LimoB/restaurant-frontend)
 
----
+
 
 ## 📰 Blog Posts
 
 🛠️ _Coming soon: deep dives into design patterns, deployment, and real-world debugging tips!_
 
----
 
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boaz-limo-30752b310/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LimoB)
-
----
 
 ## 📫 Contact Me
 
