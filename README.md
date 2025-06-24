@@ -2,6 +2,14 @@
 
 # 👋 Hi, I’m Boaz Limo
 
+---
+
+## 📌 Tech Stack Overview
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,java,tailwind,postgres,mysql,azure,vercel,netlify,git,github" />
+</p>
+
 <p align="center">
   <img src="./banner.png" alt="Boaz Limo Banner" style="border-radius: 10px; width: 100%; height: 320px; object-fit: cover;" />
 </p>
@@ -22,18 +30,11 @@
 
 ## 🔍 Currently Exploring
 
-- 🧠 Improving TypeScript architecture and DDD practices
-- 🚀 Java and systems-level development
-- ☁️ Azure Functions & serverless event-driven architecture
-- ⚡ Full-stack productivity + Express.js + Drizzle ORM
-
----
-
-## 📌 Tech Stack Overview
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,java,tailwind,postgres,mysql,azure,vercel,netlify,git,github" />
-</p>
+- 🧠 Mastering **TypeScript** patterns with clean architecture and domain-driven design (DDD)
+- ☁️ Building scalable cloud-native apps using **Microsoft Azure** (Functions, App Services, Event Grid)
+- 💡 Designing enterprise-grade **Java** applications using Spring Boot and modern backend practices
+- 🐍 Leveraging **Python** for automation, scripting, and cloud deployments
+- ⚡ Enhancing full-stack productivity using **React**, **Express.js**, **Drizzle ORM**, and modern CI/CD pipelines
 
 ---
 
