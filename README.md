@@ -12,6 +12,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LimoB&layout=compact&theme=tokyonight&hide_border=true)
 
+---
 
 ## 🧰 Languages & Tools
 
