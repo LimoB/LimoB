@@ -6,7 +6,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LimoB&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=LimoB&theme=tokyonight&hide_border=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LimoB&show_icons=true&theme=tokyonight&hide_border=true)
 
@@ -16,7 +16,8 @@
 
 ## 📈 Contribution Activity
 
-[![Boaz Limo's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=LimoB&theme=tokyonight&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Boaz Limo's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=LimoB&theme=tokyonight&hide_border=true)
+
 
 ---
 
