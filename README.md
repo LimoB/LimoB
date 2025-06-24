@@ -14,6 +14,12 @@
 
 ---
 
+## 📈 Contribution Activity
+
+[![Boaz Limo's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=LimoB&theme=tokyonight&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
 ## 🧰 Languages & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
