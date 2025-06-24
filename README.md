@@ -1,6 +1,6 @@
 <!-- Dark Banner -->
 <p align="center">
-  <img src="https://github.com/LimoB/LimoB/assets/your-banner-id/your-image.png" alt="Boaz Limo Banner" style="border-radius: 10px;" />
+  <img src="./banner.png" alt="Boaz Limo Banner" style="border-radius: 10px;" />
 </p>
 
 # 👋 Hi There, I'm Boaz Limo
@@ -11,9 +11,9 @@
 
 ## 🔍 Currently Exploring
 
-- 🧠 Improving TypeScript architecture and DDD practices  
-- 🚀 Rust and systems-level development  
-- ☁️ Azure Functions & serverless event-driven architecture  
+- 🧠 Improving TypeScript architecture and DDD practices
+- 🚀 Rust and systems-level development
+- ☁️ Azure Functions & serverless event-driven architecture
 - ⚡ Full-stack productivity with tRPC + Next.js + Drizzle ORM
 
 ---
@@ -67,6 +67,7 @@
 ## 🚀 Featured Projects
 
 ### 📚 Bookstore UI
+
 > A modular and scalable frontend built with **React + TypeScript**.  
 > Features include: user auth, dynamic listings, and form-driven UX.
 
@@ -75,6 +76,7 @@
 ---
 
 ### 🍽️ Restaurant Frontend
+
 > A dynamic food ordering platform using **React + Tailwind CSS**.  
 > Admin dashboard, charts, menu filtering, and user authentication included.
 
@@ -84,7 +86,7 @@
 
 ## 📰 Blog Posts
 
-🛠️ *Coming soon: deep dives into design patterns, deployment, and real-world debugging tips!*
+🛠️ _Coming soon: deep dives into design patterns, deployment, and real-world debugging tips!_
 
 ---
 
