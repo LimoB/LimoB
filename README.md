@@ -8,9 +8,9 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LimoB&theme=github-dark&hide_border=true)
 
-![Boaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LimoB&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LimoB&show_icons=true&theme=github_dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LimoB&layout=compact&theme=transparent&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LimoB&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
