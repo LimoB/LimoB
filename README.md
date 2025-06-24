@@ -1,6 +1,28 @@
+<!-- Dark Banner -->
+<p align="center">
+  <img src="https://github.com/LimoB/LimoB/assets/your-banner-id/your-image.png" alt="Boaz Limo Banner" style="border-radius: 10px;" />
+</p>
+
 # 👋 Hi There, I'm Boaz Limo
 
 💡 I'm a passionate **Software Engineer** focused on building modern, scalable, and reliable systems using clean architecture, test-driven development, and powerful tooling.
+
+---
+
+## 🔍 Currently Exploring
+
+- 🧠 Improving TypeScript architecture and DDD practices  
+- 🚀 Rust and systems-level development  
+- ☁️ Azure Functions & serverless event-driven architecture  
+- ⚡ Full-stack productivity with tRPC + Next.js + Drizzle ORM
+
+---
+
+## 📌 Tech Stack Overview
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,java,tailwind,postgres,mysql,azure,vercel,netlify,git,github" />
+</p>
 
 ---
 
