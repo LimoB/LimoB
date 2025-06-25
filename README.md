@@ -15,11 +15,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LimoB&layout=compact&theme=tokyonight&hide_border=true)
 
 
-<p align="center">
-  <img src="./banner.png" alt="Boaz Limo Banner" style="border-radius: 10px; width: 100%; height: 320px; object-fit: cover;" />
-</p>
-
-
 
 ## 🔍 Currently Exploring
 
@@ -29,7 +24,11 @@
 - 🐍 Leveraging **Python** for automation, scripting, and cloud deployments
 - ⚡ Enhancing full-stack productivity using **React**, **Express.js**, **Drizzle ORM**, and modern CI/CD pipelines
 
----
+
+
+<p align="center">
+  <img src="./banner.png" alt="Boaz Limo Banner" style="border-radius: 10px; width: 100%; height: 320px; object-fit: cover;" />
+</p>
 
 <!-- ## 📈 Contribution Activity -->
 
