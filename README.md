@@ -4,8 +4,6 @@
 
 💡 I'm a passionate **Software Engineer** focused on building modern, scalable, and reliable systems using clean architecture, test-driven development, and powerful tooling.
 
-
-
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=LimoB&theme=tokyonight&hide_border=true)
@@ -14,8 +12,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LimoB&layout=compact&theme=tokyonight&hide_border=true)
 
-
-
 ## 🔍 Currently Exploring
 
 - 🧠 Mastering **TypeScript** patterns with clean architecture and domain-driven design (DDD)
@@ -23,8 +19,6 @@
 - 💡 Designing enterprise-grade **Java** applications using Spring Boot and modern backend practices
 - 🐍 Leveraging **Python** for automation, scripting, and cloud deployments
 - ⚡ Enhancing full-stack productivity using **React**, **Express.js**, **Drizzle ORM**, and modern CI/CD pipelines
-
-
 
 <p align="center">
   <img src="./banner.png" alt="Boaz Limo Banner" style="border-radius: 10px; width: 100%; height: 320px; object-fit: cover;" />
@@ -40,7 +34,7 @@
   <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,java,tailwind,postgres,mysql,azure,vercel,netlify,git,github" />
 </p>
 
-## 🛠️ Languages & Tools
+<!-- ## 🛠️ Languages & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -60,7 +54,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
+--- -->
 
 ## 🚀 Featured Projects
 
