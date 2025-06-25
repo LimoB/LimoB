@@ -4,7 +4,6 @@
 
 💡 I'm a passionate **Software Engineer** focused on building modern, scalable, and reliable systems using clean architecture, test-driven development, and powerful tooling.
 
----
 
 ## 📌 Tech Stack Overview
 
@@ -12,11 +11,6 @@
   <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,java,tailwind,postgres,mysql,azure,vercel,netlify,git,github" />
 </p>
 
-<p align="center">
-  <img src="./banner.png" alt="Boaz Limo Banner" style="border-radius: 10px; width: 100%; height: 320px; object-fit: cover;" />
-</p>
-
----
 
 ## 📊 GitHub Stats
 
@@ -26,7 +20,12 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LimoB&layout=compact&theme=tokyonight&hide_border=true)
 
----
+
+<p align="center">
+  <img src="./banner.png" alt="Boaz Limo Banner" style="border-radius: 10px; width: 100%; height: 320px; object-fit: cover;" />
+</p>
+
+
 
 ## 🔍 Currently Exploring
 
