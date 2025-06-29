@@ -34,7 +34,7 @@
   <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,java,tailwind,postgres,mysql,azure,vercel,netlify,git,github" />
 </p>
 
-<!-- ## 🛠️ Languages & Tools
+## 🛠️ Languages & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -54,7 +54,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
---- -->
+
 
 ## 🚀 Featured Projects
 
