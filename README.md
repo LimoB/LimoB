@@ -20,15 +20,6 @@
 - 🐍 Leveraging **Python** for automation, scripting, and cloud deployments
 - ⚡ Enhancing full-stack productivity using **React**, **Express.js**, **Drizzle ORM**, and modern CI/CD pipelines
 
-<p align="center">
-  <img src="./banner.png" alt="Boaz Limo Banner" style="border-radius: 10px; width: 100%; height: 320px; object-fit: cover;" />
-</p>
-
-<!-- ## 📈 Contribution Activity -->
-
-<!-- ![Boaz Limo's GitHub Activity Graph](https://github-activity-graph.vercel.app/graph?username=LimoB&theme=tokyonight&hide_border=true) -->
-
-
 
 ## 🛠️ Languages & Tools
 
