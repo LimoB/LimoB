@@ -28,11 +28,7 @@
 
 <!-- ![Boaz Limo's GitHub Activity Graph](https://github-activity-graph.vercel.app/graph?username=LimoB&theme=tokyonight&hide_border=true) -->
 
-## 📌 Tech Stack Overview
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,java,tailwind,postgres,mysql,azure,vercel,netlify,git,github" />
-</p>
 
 ## 🛠️ Languages & Tools
 
